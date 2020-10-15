@@ -720,6 +720,7 @@ aside {
 	top: 13%;
 	left: 18%;
 	position: absolute;
+	width: 611px;
 }
 
 .p1_opisanie {
@@ -747,13 +748,13 @@ aside {
 	top: 13%;
 	left: 55%;
 	position: absolute;
-	width: 420px;
+	width: 566px;
 }
 
 .p3_opisanie {
 	width: 332px;
 	position: absolute;
-	top: 24%;
+	top: 28%;
 	left: 67%;
 }
 
@@ -761,13 +762,13 @@ aside {
 	top: 57%;
 	left: 55%;
 	position: absolute;
-	width: 437px;
+	width: 566px;
 }
 
 .p4_opisanie {
 	width: 332px;
 	position: absolute;
-	top: 68%;
+	top: 70%;
 	left: 67%;
 }
 
